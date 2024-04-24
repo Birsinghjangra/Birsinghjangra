@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://birsinghportfolio.netlify.app/](https://birsinghportfolio.netlify.app/)
 
-- 💬 Ask me about **angular, react**
-
 - 📫 How to reach me **birsinghjangra15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
