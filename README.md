@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bir Singh Jangra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack web developer</h3>
 
 - 🔭 I’m currently working on **DolfinIQ**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular** , **React**
 
 - 👨‍💻 All of my projects are available at [https://birsinghportfolio.netlify.app/](https://birsinghportfolio.netlify.app/)
 
